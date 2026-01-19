@@ -11,3 +11,9 @@
 .bg-card {
   background-color: rgba(53, 17, 101, 0.4);
 }
+
+.circle-border {
+  border: 1px solid #533C72;
+  border-radius: 50%;
+  padding: 5px;
+}
